@@ -1,0 +1,7 @@
+services:
+  sinric-bridge:
+    build: .
+    container_name: sinric-bridge
+    restart: always
+    env_file:
+      - .env

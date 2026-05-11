@@ -1,0 +1,1 @@
+A lightweight Dockerized bridge that listens to Sinric Pro switch events and forwards them to n8n webhooks for home automation workflows.
